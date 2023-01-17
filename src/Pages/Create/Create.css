@@ -1,0 +1,62 @@
+.create {
+    max-width: auto;
+    margin: 0 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+  .create label {
+    text-align: left;
+    display: block;
+  }
+
+  .newEmployeeForm{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .left-part,.right-part{
+    width: 40%;
+  }
+
+  .inputs{
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .submitButton{
+    display: flex;
+    align-self: center;
+    margin-top: 2.5rem;
+  }
+
+  .create h1 {
+    font-size: 30px;
+    color: #f1356d;
+    margin-bottom: 30px;
+    text-align: center;
+    
+  }
+  .create input {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+    outline: 0;
+    font-size: 14px;
+  }
+  .create input:focus{
+    border:1px solid rgb(41, 129, 41);
+  }
+  .create button {
+    height: 3rem;
+    background: #f1356d;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  

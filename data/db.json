@@ -1,0 +1,27 @@
+{
+  "Employees": [
+    {
+      "name": "Mohd Suhail Masroor",
+      "fatherName": "Masroor Ahmad",
+      "age": "19",
+      "mobileNumber": "8449225117",
+      "designation": "Production",
+      "address": "12/1419, Sarai Gariba, Saharanpur",
+      "salary": "12000",
+      "image": "C:\\fakepath\\mb.jpeg",
+      "id": 3
+    },
+    {
+      "name": "John Doe",
+      "fatherName": "Daddy Doe",
+      "age": "52",
+      "mobileNumber": "1234567890",
+      "designation": "Manager",
+      "address": "Its my address",
+      "salary": "75000",
+      "advance": "15000",
+      "installment": "1500",
+      "id": 4
+    }
+  ]
+}

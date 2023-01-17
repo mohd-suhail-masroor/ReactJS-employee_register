@@ -1,0 +1,42 @@
+.employee-details{
+    margin-top: 1.5rem;
+  }
+  .text-info h2 {
+      font-size: 20px;
+      color: #f1356d;
+      margin-bottom: 10px;
+    }
+    
+    .btn {
+      height: 3rem;
+      background: #f1356d;
+      color: #fff;
+      border: 0;
+      padding: 8px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 18px;
+      font-weight: 800;
+    }
+    .employee-detail-container{
+      padding: 1.25rem 2.5rem;
+      box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+
+    }
+    .employee-info{
+      display: flex;
+      justify-content: space-between;
+    }
+    .buttons{
+      display: flex;
+      justify-content: space-evenly;
+    }
+    .edit-button {
+      background-color: #e0dd2b;
+    }
+    .edit-button a{
+      color: #fff;
+    }
+    .employee-details-pic{
+      height: 200px;
+    }
